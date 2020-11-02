@@ -3,7 +3,7 @@
 
 <br/>
 
-### Installation of the required libraries:
+### Install the required libraries:
 
 * UPDATE
 ```
@@ -37,7 +37,7 @@ make
 make clean
 ```
 
-### How to use:
+### Usage:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, add MP3 songs with ID3v1 metadata format. 
 Then run ```make run``` and the below window will appear:
 
